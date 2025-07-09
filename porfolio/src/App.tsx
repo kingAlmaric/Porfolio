@@ -237,7 +237,7 @@ function App() {
                   <TypingText text="N'guéssan Yann-Joris Almaric" delay={80} />
                 </h2>
                 <div className="text-xl md:text-2xl text-gray-300 mb-8">
-                  <TypingText text="Développeur Frontend Passionné | Étudiant HETEC | Candidat Stage Bridge Bank" delay={30} />
+                  <TypingText text="Développeur Frontend Passionné | Étudiant HETEC | Candidat Stage " delay={30} />
                 </div>
               </div>
               
@@ -285,7 +285,7 @@ function App() {
                 </p>
                 <p className="text-gray-400">
                   Disponible à partir de Maintenant • Spécialisé en développement Frontend • 
-                  Passionné par l'innovation eBanking • Prêt à contribuer aux projets de Bridge Bank Group
+                  Passionné par l'innovation eBanking • Prêt à contribuer aux projets de votre Banque
                 </p>
               </div>
             </div>
@@ -694,7 +694,7 @@ function App() {
               </div>
 
               <div className="p-8 border border-cyan-500/30 rounded-lg bg-gradient-to-r from-cyan-500/5 to-blue-500/5">
-                <h3 className="text-2xl font-bold mb-4 text-cyan-500">Candidature Bridge Bank Group</h3>
+                <h3 className="text-2xl font-bold mb-4 text-cyan-500">Candidature spontanée – Stage Développement Informatique</h3>
                 <p className="text-gray-300 text-lg mb-6">
                   Développeur Frontend passionné recherchant un stage de fin d'études
                 </p>
@@ -721,7 +721,7 @@ function App() {
             © 2025 KOUASSI N'guéssan Yann-Joris Almaric. Développé avec ❤️ et beaucoup de ☕
           </p>
           <p className="text-sm text-orange-500 mt-2">
-            Portfolio conçu pour Bridge Bank Group - Candidature Stage Développeur Frontend
+            Portfolio conçu pour vous - Candidature Stage Développeur Frontend
           </p>
         </div>
       </footer>
