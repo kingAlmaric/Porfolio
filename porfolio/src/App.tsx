@@ -263,7 +263,7 @@ function App() {
 
 <div className="flex justify-center space-x-6">
   <button 
-    onClick={() => window.open('https://drive.google.com/file/d/1C-zVYkm5p1MZgfFTZ-eS3dy9ZNKTedHv/view?usp=drive_link', '_blank')}
+    onClick={() => window.open('https://drive.google.com/file/d/1KvI0LgWFka0avu4xpuae6a2ZYbOEeVr2/view?usp=drive_link', '_blank')}
     className="px-8 py-3 bg-gradient-to-r from-orange-500 to-red-500 rounded-lg font-bold hover:shadow-lg hover:shadow-orange-500/50 transition-all duration-300 transform hover:scale-105"
   >
     <Download className="w-5 h-5 inline mr-2" />
