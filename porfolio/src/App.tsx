@@ -86,6 +86,9 @@ function App() {
   const [activeSection, setActiveSection] = useState('à propos');
   const [terminalOpen, setTerminalOpen] = useState(false);
   const [terminalText, setTerminalText] = useState('');
+  
+  console.log("Ma clé :", import.meta.env.VITE_EXEMPLE_NOM);
+  
 
   const compétences = {
     frontend: ['HTML5', 'CSS3', 'JavaScript', 'Vue.js', 'React', 'Angular', 'Responsive Design'],
@@ -725,5 +728,6 @@ function App() {
     </div>
   );
 }
+
 
 export default App;
